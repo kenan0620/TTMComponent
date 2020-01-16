@@ -1,0 +1,6 @@
+framework module TTMComponent {
+  umbrella header "TTMComponent-umbrella.h"
+
+  export *
+  module * { export * }
+}

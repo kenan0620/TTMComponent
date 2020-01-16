@@ -1,0 +1,16 @@
+PODS:
+  - TTMComponent (0.1.0)
+
+DEPENDENCIES:
+  - TTMComponent (from `../`)
+
+EXTERNAL SOURCES:
+  TTMComponent:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TTMComponent: 90b967a7600f010b42e47b3571f19db853032e19
+
+PODFILE CHECKSUM: 132301b246405d6607b11a175c266de3331d88f0
+
+COCOAPODS: 1.8.4

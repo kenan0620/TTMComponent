@@ -1,0 +1,6 @@
+framework module Pods_TTMComponent_Example {
+  umbrella header "Pods-TTMComponent_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
